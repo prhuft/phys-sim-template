@@ -1,7 +1,7 @@
 """
 Helper Functions Library
 
-Preston Huft, 2018
+Preston Huft, 2018. Updated 1 May.
 
 Contains functions I use often enough to really not want to rewrite them each 
 time that I use them. Could also contain classes, I suppose.
